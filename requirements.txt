@@ -1,0 +1,12 @@
+pandas
+numpy
+streamlit
+scikit-learn
+recordlinkage
+rapidfuzz
+fuzzywuzzy
+python-Levenshtein
+plotly
+torch
+sentence-transformers
+scipy
